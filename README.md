@@ -1,5 +1,6 @@
 # Lesson-learned-from-group-5-Huihua-Zheng-Qing-Zhang-Yongbo-Jin-Jinchuan-Luo-Yabo-Zhang-
 Lesson learned from group 5 (Huihua Zheng, Qing Zhang, Yongbo Jin, Jinchuan Luo, Yabo Zhang)
+
 The goal of this repo is to capture some of they key takeaways from the Digital Literacy class that you think will be most useful going forward. Everyone should individually think of a single, specific takeaway that they found really valuable from the class.
 
 One member of each group should fork this repo and then add the rest of your group members as collaborators to your fork so they can all commit directly to your repo.
