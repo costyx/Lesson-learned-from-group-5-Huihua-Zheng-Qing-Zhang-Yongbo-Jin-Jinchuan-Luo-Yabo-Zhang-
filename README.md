@@ -3,9 +3,7 @@ Lesson learned from group 5 (Huihua Zheng, Qing Zhang, Yongbo Jin, Jinchuan Luo,
 
 How to hire and define qualified programmer
 
-One of the takeaway from the class is the how to find a qualified programmer and offers him what he deserves.
-
-Qualified programmers are the key for the business, especially for people who start the business but do not know anything about programming and coding. After taking the class and read the book, I gained some insights about the criteria and requirement.
+One of the takeaway from the class is the how to find a qualified programmer and offers him what he deserves. Qualified programmers are the key for the business, especially for people who start the business but do not know anything about programming and coding. After taking the class and read the book, I gained some insights about the criteria and requirement.
 
 First of all, background and experience are very important. If the programmer graduated from Stanford and used to work for Google or Facebook, it certainly tells that he is very capable of programming and coding. However, how to persuade him changing from such stable companies with good fame to a dynamic start-up environment is a challenge for us. If the programmers used to work for major tech start-ups, it not only proves his good capability but also shows that he likes start-up dynamic environment. 
 
