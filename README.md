@@ -18,9 +18,10 @@ Key principles:
 3. Develop a communication strategy that everyone you work with will know and understand.
 
 
+
 A sample of a basic outline:
 
-1. Introduction
+1 Introduction
 
 1.1 Purpose
 
@@ -34,7 +35,7 @@ A sample of a basic outline:
 
 1.6 References
 
-2. Overall Description
+2 Overall Description
 
 2.1 Product perspective
 
@@ -50,7 +51,7 @@ A sample of a basic outline:
 
 2.7 Assumptions and dependencies
 
-3. External Interface Requirements
+3 External Interface Requirements
 
 3.1 User interfaces
 
@@ -60,7 +61,7 @@ A sample of a basic outline:
 
 3.4 Communication protocols and interfaces
 
-4. System Features
+4 System Features
 
 4.1 System feature A
 
@@ -72,7 +73,7 @@ A sample of a basic outline:
 
 4.2 System feature B
 
-5. Other Nonfunctional Requirements
+5 Other Nonfunctional Requirements
 
 5.1 Performance requirements
 
@@ -86,7 +87,7 @@ A sample of a basic outline:
 
 5.6 User documentation
 
-6. Other Requirements
+6 Other Requirements
 
 Appendix A: Terminology/Glossary/Definitions list
 
