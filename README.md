@@ -1,7 +1,4 @@
 # Lesson-learned-from-group-5-Huihua-Zheng-Qing-Zhang-Yongbo-Jin-Jinchuan-Luo-Yabo-Zhang-
-Lesson learned from group 5 (Huihua Zheng, Qing Zhang, Yongbo Jin, Jinchuan Luo, Yabo Zhang)
-
-How to hire and define qualified programmer
 
 One of the takeaway from the class is the how to find a qualified programmer and offers him what he deserves. Qualified programmers are the key for the business, especially for people who start the business but do not know anything about programming and coding. After taking the class and read the book, I gained some insights about the criteria and requirement.
 
